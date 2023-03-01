@@ -68,6 +68,7 @@ InlineEditor.builtinPlugins = [
   TextTransformation,
   Mention,
   Underline,
+  Strikethrough,
 ];
 
 // Editor configuration.
